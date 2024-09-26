@@ -1,6 +1,9 @@
 
-function greet("name"){
+function greet(name){
+    if (nam=="count Dokou"){
+        return "I'm coming for you, Dooku!" 
+    }
     return "good day ,"+ name +"!";
 
 }
-console.log(greet("helmi"))
+console.log(greet("helmi"));
